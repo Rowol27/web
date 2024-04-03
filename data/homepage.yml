@@ -1,13 +1,13 @@
 # homepage
 homepage:
   head:
-    title: "Home | [Rowol]" # TODO: 이름 추가
+    title: "Home | Rowol" # TODO: 이름 추가
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m [Rowol]" # TODO: 이름 추가
+  title: "Hello, I’m Rowol" # TODO: 이름 추가
   subtitle: "Developer"
-  description: "[안녕하세요. Rowol입니다!]" # TODO: 소개 추가
+  description: "안녕하세요. Rowol입니다!" # TODO: 소개 추가
   image:
     alt: "Showcase keyboard and mouse image"
     x: "https://avatars.githubusercontent.com/u/162014315?s=400&u=f9c1c4d6328fd2dba5be494fff19d587e792d1b0&v=4"
